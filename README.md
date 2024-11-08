@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bonjour 👋, je suis Anthony Ly (@Anthony69800) !
 
-<!--
-**Anthony69800/Anthony69800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub !
 
-Here are some ideas to get you started:
+- 💼 Actuellement en contrat de professionnalisation en tant que Technicien informatique !
+- Passion: Jeux Vidéos !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Centres d'intérêt
+Je suis passionné par :
+- Les nouvelles technologies
+- La cybersécurité
+- La gestion de réseaux
+
+## Contact
+Vous pouvez me joindre via mon mail : anthony.ly@hotmail.fr
