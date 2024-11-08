@@ -8,9 +8,9 @@ Bienvenue sur mon profil GitHub !
 
 ## Centres d'intérêt
 Je suis passionné par :
-- Les nouvelles technologies
-- La cybersécurité
-- La gestion de réseaux
+- 😄 Les nouvelles technologies
+- ⚡ La cybersécurité
+- 💞️ La gestion de réseaux
 
 ## Contact
-Vous pouvez me joindre via mon mail : anthony.ly@hotmail.fr
+📫 Vous pouvez me joindre via mon mail : anthony.ly@hotmail.fr
