@@ -1,6 +1,6 @@
 # Présentation
 
-Bonjour 👋, je suis Anthony Ly (@Anthony69800)!
+👋 Bonjour, je suis Anthony Ly (@Anthony69800)!
 Bienvenue sur mon profil GitHub !
 
 - 💼 Actuellement en contrat de professionnalisation en tant que Technicien informatique !
